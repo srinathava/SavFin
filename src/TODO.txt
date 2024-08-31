@@ -1,0 +1,19 @@
+* new categories needed:
+    supermarkets
+    entertainment/misc
+    medical
+    income/misc
+
+* import BOFA PDF statement
+* categorization meter
+* add new categories
+* fix bug in csv import
+* undo/redo
+* selected transactions page
+* Set rule screen : Add toggle switch for "duplicates"
+* Set rule screen : Autostart "if pattern matches"
+* Dont show password screen if there is no password
+* Do not reset screen to "current" year : stay at the year being analyzed
+* fix the highly innovative "and" stmt : bracketing and "ToPath" and make enter work
+* Please put undo/redo
+* please put a short key for opening rule windows

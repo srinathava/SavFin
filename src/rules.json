@@ -1,0 +1,2038 @@
+[
+  {
+    "pattern": "shaw", 
+    "setDuplicate": null, 
+    "__id": 14247, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 25
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "kindle", 
+    "setDuplicate": null, 
+    "__id": 14248, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 33
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "video on demand", 
+    "setDuplicate": null, 
+    "__id": 14249, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 35
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "amazon", 
+    "setDuplicate": null, 
+    "__id": 14250, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 49
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "audible", 
+    "setDuplicate": null, 
+    "__id": 14251, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 33
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "babies r us", 
+    "setDuplicate": null, 
+    "__id": 14252, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 45
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "barnes & noble", 
+    "setDuplicate": null, 
+    "__id": 14253, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 33
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "chase des:", 
+    "setDuplicate": null, 
+    "__id": 14254, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 57
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "comcast", 
+    "setDuplicate": null, 
+    "__id": 14255, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 18
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "commerce ins", 
+    "setDuplicate": null, 
+    "__id": 14256, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 22
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "dividend", 
+    "setDuplicate": null, 
+    "__id": 14257, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 5
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "domino", 
+    "setDuplicate": null, 
+    "__id": 14258, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "eft inter bus mach", 
+    "setDuplicate": null, 
+    "__id": 14259, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 4
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "einstein bros", 
+    "setDuplicate": null, 
+    "__id": 14260, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 29
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "exxonmobil", 
+    "setDuplicate": null, 
+    "__id": 14261, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 20
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "interest earned", 
+    "setDuplicate": null, 
+    "__id": 14262, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 5
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "khushboo", 
+    "setDuplicate": null, 
+    "__id": 14263, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "olson gourmet", 
+    "setDuplicate": null, 
+    "__id": 14264, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 30
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "panera", 
+    "setDuplicate": null, 
+    "__id": 14265, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 29
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "patel", 
+    "setDuplicate": null, 
+    "__id": 14266, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 26
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "starbucks", 
+    "setDuplicate": null, 
+    "__id": 14267, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 29
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "subway", 
+    "setDuplicate": null, 
+    "__id": 14268, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "mathworks cafe", 
+    "setDuplicate": null, 
+    "__id": 14269, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 30
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "the math works i des:", 
+    "setDuplicate": null, 
+    "__id": 14270, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 3
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "upper crust", 
+    "setDuplicate": null, 
+    "__id": 14271, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "verizon", 
+    "setDuplicate": null, 
+    "__id": 14272, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 17
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "vzwrlss", 
+    "setDuplicate": null, 
+    "__id": 14273, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 17
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "west side gas", 
+    "setDuplicate": null, 
+    "__id": 14274, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 20
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "wholefds", 
+    "setDuplicate": null, 
+    "__id": 14275, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 24
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "wqn", 
+    "setDuplicate": null, 
+    "__id": 14276, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 17
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "whole foods", 
+    "setDuplicate": null, 
+    "__id": 14277, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 24
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "cafe", 
+    "setDuplicate": null, 
+    "__id": 14278, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "grill", 
+    "setDuplicate": null, 
+    "__id": 14279, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "big fresh", 
+    "setDuplicate": null, 
+    "__id": 14280, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "cvs", 
+    "setDuplicate": null, 
+    "__id": 14281, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 43
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "aaa", 
+    "setDuplicate": null, 
+    "__id": 14282, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 22
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "gulf oil", 
+    "setDuplicate": null, 
+    "__id": 14283, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 20
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "ixtapa", 
+    "setDuplicate": null, 
+    "__id": 14284, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "netflix", 
+    "setDuplicate": null, 
+    "__id": 14285, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 36
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "restaurant", 
+    "setDuplicate": null, 
+    "__id": 14286, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "nwh", 
+    "setDuplicate": null, 
+    "__id": 14287, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 43
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "national grid", 
+    "setDuplicate": null, 
+    "__id": 14288, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 11
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "nstar", 
+    "setDuplicate": null, 
+    "__id": 14289, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 12
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "minol", 
+    "setDuplicate": null, 
+    "__id": 14290, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 14
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "oil", 
+    "setDuplicate": null, 
+    "__id": 14291, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 20
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "trader joe", 
+    "setDuplicate": null, 
+    "__id": 14292, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 27
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "toys r us", 
+    "setDuplicate": null, 
+    "__id": 14293, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 45
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "pediatrics", 
+    "setDuplicate": null, 
+    "__id": 14294, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 48
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "jetblue", 
+    "setDuplicate": null, 
+    "__id": 14295, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "toyota", 
+    "setDuplicate": null, 
+    "__id": 14296, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 21
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "henry j merola", 
+    "setDuplicate": null, 
+    "__id": 14297, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 43
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "ne aquarium", 
+    "setDuplicate": null, 
+    "__id": 14298, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "gourmet", 
+    "setDuplicate": null, 
+    "__id": 14299, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "ibmnetpay", 
+    "setDuplicate": null, 
+    "__id": 14300, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 4
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "annual balance rewards", 
+    "setDuplicate": null, 
+    "__id": 14301, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 5
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "bkofamerica - ma des:", 
+    "setDuplicate": null, 
+    "__id": 14302, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "transfer from acct 5", 
+    "setDuplicate": null, 
+    "__id": 14303, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 53
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "transfer to acct 1", 
+    "setDuplicate": null, 
+    "__id": 14304, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 55
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "keepthechange credit from", 
+    "setDuplicate": null, 
+    "__id": 14305, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "keep the change transfer to", 
+    "setDuplicate": null, 
+    "__id": 14306, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "masspike", 
+    "setDuplicate": null, 
+    "__id": 14307, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "massport", 
+    "setDuplicate": null, 
+    "__id": 14308, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "india house of burlington", 
+    "setDuplicate": null, 
+    "__id": 14309, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "sunoco", 
+    "setDuplicate": null, 
+    "__id": 14310, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 20
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "target", 
+    "setDuplicate": null, 
+    "__id": 14311, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 59
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "sears", 
+    "setDuplicate": null, 
+    "__id": 14312, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 60
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "jcpenney", 
+    "setDuplicate": null, 
+    "__id": 14313, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "gap", 
+    "setDuplicate": null, 
+    "__id": 14314, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "panini", 
+    "setDuplicate": null, 
+    "__id": 14315, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "dunkin", 
+    "setDuplicate": null, 
+    "__id": 14316, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 29
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "chinese", 
+    "setDuplicate": null, 
+    "__id": 14317, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "pho pasteur", 
+    "setDuplicate": null, 
+    "__id": 14318, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "ikea", 
+    "setDuplicate": null, 
+    "__id": 14319, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 62
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "ice cream", 
+    "setDuplicate": null, 
+    "__id": 14320, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "margarita", 
+    "setDuplicate": null, 
+    "__id": 14321, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "gymboree", 
+    "setDuplicate": null, 
+    "__id": 14322, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "hess", 
+    "setDuplicate": null, 
+    "__id": 14323, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 20
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "boston common", 
+    "setDuplicate": null, 
+    "__id": 14324, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "fast lane", 
+    "setDuplicate": null, 
+    "__id": 14325, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "withdraw wf credit card", 
+    "setDuplicate": null, 
+    "__id": 14326, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 66
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "google *", 
+    "setDuplicate": null, 
+    "__id": 14327, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 34
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "itunes", 
+    "setDuplicate": null, 
+    "__id": 14328, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 34
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "bed bath", 
+    "setDuplicate": null, 
+    "__id": 14329, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 62
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "bedbath", 
+    "setDuplicate": null, 
+    "__id": 14330, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 62
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "jordans", 
+    "setDuplicate": null, 
+    "__id": 14331, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 62
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "vudu", 
+    "setDuplicate": null, 
+    "__id": 14332, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 35
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "ac moore", 
+    "setDuplicate": null, 
+    "__id": 14333, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 45
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "appleseed ", 
+    "setDuplicate": null, 
+    "__id": 14334, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "barnesnoble", 
+    "setDuplicate": null, 
+    "__id": 14335, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 33
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "catch a falling star", 
+    "setDuplicate": null, 
+    "__id": 14336, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 45
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "carter s", 
+    "setDuplicate": null, 
+    "__id": 14337, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 48
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "clark", 
+    "setDuplicate": null, 
+    "__id": 14338, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "yogurt", 
+    "setDuplicate": null, 
+    "__id": 14339, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "pongal", 
+    "setDuplicate": null, 
+    "__id": 14340, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "papa-razzi", 
+    "setDuplicate": null, 
+    "__id": 14341, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "sudbury farms", 
+    "setDuplicate": null, 
+    "__id": 14342, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 27
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978", 
+    "setDuplicate": null, 
+    "__id": 14343, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "annual keep the change match for acct. 2718", 
+    "setDuplicate": null, 
+    "__id": 14344, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 5
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "keep the change credit from acct 2718", 
+    "setDuplicate": null, 
+    "__id": 14345, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "addis red sea ethiopia", 
+    "setDuplicate": null, 
+    "__id": 14346, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "bedford farms ice", 
+    "setDuplicate": null, 
+    "__id": 14347, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "altelier 505", 
+    "setDuplicate": false, 
+    "__id": 14348, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "rfc burlington mall re", 
+    "setDuplicate": false, 
+    "__id": 14349, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "story land", 
+    "setDuplicate": false, 
+    "__id": 14350, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 45
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "roger williams pk zoo", 
+    "setDuplicate": false, 
+    "__id": 14351, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "shell service", 
+    "setDuplicate": false, 
+    "__id": 14352, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 20
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "transfer from acct", 
+    "setDuplicate": true, 
+    "__id": 14353, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 55
+    }, 
+    "accountFrom": {
+      "__id": 53
+    }
+  }, 
+  {
+    "pattern": "transfer to acct", 
+    "setDuplicate": false, 
+    "__id": 14354, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 53
+    }, 
+    "accountFrom": {
+      "__id": 55
+    }
+  }, 
+  {
+    "pattern": "old navy", 
+    "setDuplicate": false, 
+    "__id": 14355, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "stride rite", 
+    "setDuplicate": false, 
+    "__id": 14356, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "rei", 
+    "setDuplicate": false, 
+    "__id": 14357, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "bernardi honda", 
+    "setDuplicate": false, 
+    "__id": 14358, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 21
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "macy", 
+    "setDuplicate": false, 
+    "__id": 14359, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "wilson farms", 
+    "setDuplicate": false, 
+    "__id": 14360, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 27
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "feng shui", 
+    "setDuplicate": false, 
+    "__id": 14361, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "snip it's", 
+    "setDuplicate": false, 
+    "__id": 14362, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 63
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "hair crew", 
+    "setDuplicate": false, 
+    "__id": 14363, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 63
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "lakeview hair co", 
+    "setDuplicate": false, 
+    "__id": 14364, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 63
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "peet's", 
+    "setDuplicate": false, 
+    "__id": 14365, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 29
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "romanos", 
+    "setDuplicate": false, 
+    "__id": 14366, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "pizza", 
+    "setDuplicate": false, 
+    "__id": 14367, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "india house", 
+    "setDuplicate": false, 
+    "__id": 14368, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "the home depot", 
+    "setDuplicate": false, 
+    "__id": 14369, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 77
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "wm ezpay", 
+    "setDuplicate": false, 
+    "__id": 14370, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 72
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "payment - thank you", 
+    "setDuplicate": true, 
+    "__id": 14371, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": {
+      "__id": 57
+    }
+  }, 
+  {
+    "pattern": "indian food & spice", 
+    "setDuplicate": false, 
+    "__id": 14372, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 26
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "lowes", 
+    "setDuplicate": false, 
+    "__id": 14373, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 62
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "thank you", 
+    "setDuplicate": true, 
+    "__id": 14374, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": {
+      "__id": 57
+    }
+  }, 
+  {
+    "pattern": "auntie anne", 
+    "setDuplicate": false, 
+    "__id": 14375, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "cuisine", 
+    "setDuplicate": false, 
+    "__id": 14376, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "acapulcos", 
+    "setDuplicate": false, 
+    "__id": 14377, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "museum of science", 
+    "setDuplicate": false, 
+    "__id": 14378, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 41
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "family clip", 
+    "setDuplicate": false, 
+    "__id": 14379, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 63
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "hot breads", 
+    "setDuplicate": false, 
+    "__id": 14380, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "automatic payment - thank", 
+    "setDuplicate": true, 
+    "__id": 14381, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": {
+      "__id": 57
+    }
+  }, 
+  {
+    "pattern": "dovenmuehl", 
+    "setDuplicate": false, 
+    "__id": 14382, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 8
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "trattoria", 
+    "setDuplicate": false, 
+    "__id": 14383, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "adt*security services", 
+    "setDuplicate": false, 
+    "__id": 14384, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 79
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "nicholson plumbing heati", 
+    "setDuplicate": false, 
+    "__id": 14385, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 79
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "appleseed", 
+    "setDuplicate": false, 
+    "__id": 14386, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "athans european bakery", 
+    "setDuplicate": false, 
+    "__id": 14387, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "barnes", 
+    "setDuplicate": false, 
+    "__id": 14388, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 33
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "ihop ", 
+    "setDuplicate": false, 
+    "__id": 14389, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "pf changs", 
+    "setDuplicate": false, 
+    "__id": 14390, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "russell's garden", 
+    "setDuplicate": false, 
+    "__id": 14391, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 76
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "flat patties", 
+    "setDuplicate": false, 
+    "__id": 14392, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "dah-mee", 
+    "setDuplicate": false, 
+    "__id": 14393, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "savoy tickets", 
+    "setDuplicate": false, 
+    "__id": 14394, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 37
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "adtsecurity myadt.com", 
+    "setDuplicate": false, 
+    "__id": 14395, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 79
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "sudbury water di des: water", 
+    "setDuplicate": false, 
+    "__id": 14396, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 13
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "mahoney's garden c", 
+    "setDuplicate": false, 
+    "__id": 14397, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 76
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "bright horizons", 
+    "setDuplicate": false, 
+    "__id": 14398, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 9
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "stop & shop", 
+    "setDuplicate": false, 
+    "__id": 14399, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 27
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "bertuccis", 
+    "setDuplicate": false, 
+    "__id": 14400, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "xoom.com", 
+    "setDuplicate": false, 
+    "__id": 14401, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 39
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "roundpoint", 
+    "setDuplicate": false, 
+    "__id": 14402, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 8
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "carters", 
+    "setDuplicate": false, 
+    "__id": 14403, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "eversource bill payment", 
+    "setDuplicate": false, 
+    "__id": 14404, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 11
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "f and w pest control", 
+    "setDuplicate": false, 
+    "__id": 14405, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 76
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "learning express", 
+    "setDuplicate": false, 
+    "__id": 14406, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 45
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "mathworks inc", 
+    "setDuplicate": false, 
+    "__id": 14407, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 3
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "overdraft protection", 
+    "setDuplicate": false, 
+    "__id": 14408, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": {
+      "__id": 52
+    }
+  }, 
+  {
+    "pattern": "overdraft protection", 
+    "setDuplicate": true, 
+    "__id": 14409, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "cbw landscaping", 
+    "setDuplicate": false, 
+    "__id": 14410, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 76
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "idylwilde farms in acton ma", 
+    "setDuplicate": false, 
+    "__id": 14411, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 27
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "roche brothers", 
+    "setDuplicate": false, 
+    "__id": 14412, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 27
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "little flippers", 
+    "setDuplicate": false, 
+    "__id": 14413, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 48
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "carter's", 
+    "setDuplicate": false, 
+    "__id": 14414, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 61
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "soul of india sudbury ma", 
+    "setDuplicate": false, 
+    "__id": 14415, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "daikanyama", 
+    "setDuplicate": false, 
+    "__id": 14416, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 31
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "stop shop", 
+    "setDuplicate": false, 
+    "__id": 14417, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 27
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978", 
+    "setDuplicate": true, 
+    "__id": 14418, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "chase credit crd des:autopay", 
+    "setDuplicate": false, 
+    "__id": 14419, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 83
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "chase des:autopay", 
+    "setDuplicate": false, 
+    "__id": 14420, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 83
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "breedlove des", 
+    "setDuplicate": false, 
+    "__id": 14421, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 9
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "sudbury extended day", 
+    "setDuplicate": false, 
+    "__id": 14422, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 9
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "eversource bill payment ", 
+    "setDuplicate": false, 
+    "__id": 14423, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 11
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978", 
+    "setDuplicate": true, 
+    "__id": 14424, 
+    "__type": "SimpleRule", 
+    "accountTo": null, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "sudbury water", 
+    "setDuplicate": false, 
+    "__id": 14425, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 13
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "eversource", 
+    "setDuplicate": false, 
+    "__id": 14426, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 11
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "garro studios", 
+    "setDuplicate": false, 
+    "__id": 14427, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 87
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "lee valley tools", 
+    "setDuplicate": false, 
+    "__id": 14428, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 81
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "createsew", 
+    "setDuplicate": false, 
+    "__id": 14429, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 87
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978", 
+    "setDuplicate": true, 
+    "__id": 14430, 
+    "__type": "SimpleRule", 
+    "accountTo": null, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "boulter plywood corp", 
+    "setDuplicate": false, 
+    "__id": 14431, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 81
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "automatic transfer to sav 4978", 
+    "setDuplicate": true, 
+    "__id": 14432, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978", 
+    "setDuplicate": true, 
+    "__id": 14433, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "online banking transfer from chk 4978", 
+    "setDuplicate": true, 
+    "__id": 14434, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "deposit bank of america online", 
+    "setDuplicate": true, 
+    "__id": 14435, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 53
+    }
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978 confirmation", 
+    "setDuplicate": true, 
+    "__id": 14436, 
+    "__type": "SimpleRule", 
+    "accountTo": null, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "online scheduled transfer to chk 2718 confirmation", 
+    "setDuplicate": false, 
+    "__id": 14437, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": {
+      "__id": 52
+    }
+  }, 
+  {
+    "pattern": "online banking transfer to chk 2718", 
+    "setDuplicate": false, 
+    "__id": 14438, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": {
+      "__id": 52
+    }
+  }, 
+  {
+    "pattern": "betterment sec des:transfer", 
+    "setDuplicate": false, 
+    "__id": 14439, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 85
+    }, 
+    "accountFrom": {
+      "__id": 52
+    }
+  }, 
+  {
+    "pattern": "transfer srinath avadhanula:srinath avadhanula", 
+    "setDuplicate": false, 
+    "__id": 14440, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 53
+    }, 
+    "accountFrom": {
+      "__id": 52
+    }
+  }, 
+  {
+    "pattern": "online banking transfer from chk", 
+    "setDuplicate": true, 
+    "__id": 14441, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "online banking transfer to chk 2", 
+    "setDuplicate": false, 
+    "__id": 14442, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": null
+  }, 
+  {
+    "pattern": "online scheduled transfer from s", 
+    "setDuplicate": true, 
+    "__id": 14443, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "online scheduled transfer to chk", 
+    "setDuplicate": false, 
+    "__id": 14444, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 51
+    }, 
+    "accountFrom": {
+      "__id": 52
+    }
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978", 
+    "setDuplicate": true, 
+    "__id": 14445, 
+    "__type": "SimpleRule", 
+    "accountTo": {
+      "__id": 52
+    }, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }, 
+  {
+    "pattern": "online scheduled transfer from sav 4978", 
+    "setDuplicate": true, 
+    "__id": 14446, 
+    "__type": "SimpleRule", 
+    "accountTo": null, 
+    "accountFrom": {
+      "__id": 51
+    }
+  }
+]

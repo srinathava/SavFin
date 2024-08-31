@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SavFin</class>
+ <widget class="QMainWindow" name="SavFin">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>813</width>
+    <height>640</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Savfin</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QLabel" name="timeExtentsLabel">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="textFormat">
+         <enum>Qt::RichText</enum>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="prevIntervalButton">
+        <property name="text">
+         <string>&lt;&lt;</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QComboBox" name="durationCombo">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>0</height>
+         </size>
+        </property>
+        <property name="currentIndex">
+         <number>1</number>
+        </property>
+        <item>
+         <property name="text">
+          <string>Yearly</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Year To Date</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Monthly</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Past Year</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>All</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="nextIntervalButton">
+        <property name="text">
+         <string>&gt;&gt;</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="ExpenseReport" name="expenseReportTab">
+       <attribute name="title">
+        <string>Expense Report</string>
+       </attribute>
+      </widget>
+      <widget class="AssetView" name="assetViewTab">
+       <attribute name="title">
+        <string>Asset View</string>
+       </attribute>
+      </widget>
+      <widget class="SelectedTransactionTableView" name="selectedTransactionsTab">
+       <attribute name="title">
+        <string>Selected Transitions</string>
+       </attribute>
+      </widget>
+      <widget class="FilteredTransactionView" name="transactionsTab">
+       <attribute name="title">
+        <string>All Transactions</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="accountsTab">
+       <attribute name="title">
+        <string>Accounts</string>
+       </attribute>
+       <layout class="QHBoxLayout" name="horizontalLayout_2">
+        <item>
+         <widget class="AccountTreeView" name="accountTreeView"/>
+        </item>
+        <item>
+         <widget class="AccountInfoWidget" name="accountInfoWidget" native="true"/>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>813</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_File">
+    <property name="title">
+     <string>&amp;File</string>
+    </property>
+    <addaction name="actionOpen"/>
+    <addaction name="actionSave"/>
+    <addaction name="actionSaveAs"/>
+    <addaction name="actionSetMasterPassword"/>
+    <addaction name="separator"/>
+    <addaction name="actionQuit"/>
+   </widget>
+   <widget class="QMenu" name="menu_Import">
+    <property name="title">
+     <string>&amp;Import</string>
+    </property>
+    <addaction name="actionImportStatement"/>
+   </widget>
+   <widget class="QMenu" name="menu_Rules">
+    <property name="title">
+     <string>&amp;Rules</string>
+    </property>
+    <addaction name="actionAddRule"/>
+    <addaction name="actionManageRules"/>
+   </widget>
+   <widget class="QMenu" name="menu_Transactions">
+    <property name="title">
+     <string>&amp;Transactions</string>
+    </property>
+    <addaction name="actionDetectDuplicates"/>
+   </widget>
+   <addaction name="menu_File"/>
+   <addaction name="menu_Import"/>
+   <addaction name="menu_Rules"/>
+   <addaction name="menu_Transactions"/>
+  </widget>
+  <action name="actionOpen">
+   <property name="text">
+    <string>&amp;Open...</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
+   </property>
+  </action>
+  <action name="actionQuit">
+   <property name="text">
+    <string>&amp;Quit</string>
+   </property>
+  </action>
+  <action name="actionImportBofaStatement">
+   <property name="text">
+    <string>Bank of &amp;America Statement</string>
+   </property>
+  </action>
+  <action name="actionImportChaseStatement">
+   <property name="text">
+    <string>Chase &amp;Visa Statement</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="text">
+    <string>&amp;Save</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+  </action>
+  <action name="actionSaveAs">
+   <property name="text">
+    <string>Save &amp;As...</string>
+   </property>
+  </action>
+  <action name="actionImportDCUStatement">
+   <property name="text">
+    <string>D&amp;CU Statement</string>
+   </property>
+  </action>
+  <action name="actionImportStatement">
+   <property name="text">
+    <string>&amp;Pdf/Ofx statement</string>
+   </property>
+  </action>
+  <action name="actionSetDurationMonth">
+   <property name="text">
+    <string>&amp;Month</string>
+   </property>
+  </action>
+  <action name="actionSetDurationYear">
+   <property name="text">
+    <string>&amp;Year</string>
+   </property>
+  </action>
+  <action name="actionSetDurationAll">
+   <property name="text">
+    <string>&amp;All</string>
+   </property>
+  </action>
+  <action name="actionAddRule">
+   <property name="text">
+    <string>&amp;Add Rule...</string>
+   </property>
+  </action>
+  <action name="actionManageRules">
+   <property name="text">
+    <string>&amp;Manage Rules...</string>
+   </property>
+  </action>
+  <action name="action_All_accounts">
+   <property name="text">
+    <string>&amp;All accounts</string>
+   </property>
+  </action>
+  <action name="actionDownloadAccounts">
+   <property name="text">
+    <string>&amp;Download all accounts</string>
+   </property>
+  </action>
+  <action name="actionSetMasterPassword">
+   <property name="text">
+    <string>Set Master Password...</string>
+   </property>
+  </action>
+  <action name="actionImportOfxStatement">
+   <property name="text">
+    <string>Import OF&amp;X statement</string>
+   </property>
+  </action>
+  <action name="actionDetectDuplicates">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>&amp;Detect Duplicates</string>
+   </property>
+  </action>
+  <action name="actionImportAmazonVISAStatement">
+   <property name="text">
+    <string>Amazon VISA Statement</string>
+   </property>
+  </action>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>ExpenseReport</class>
+   <extends>QWidget</extends>
+   <header>ExpenseReport.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>AssetView</class>
+   <extends>QWidget</extends>
+   <header>AssetView.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>SelectedTransactionTableView</class>
+   <extends>QWidget</extends>
+   <header>SelectedTransactionTableView.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>FilteredTransactionView</class>
+   <extends>QWidget</extends>
+   <header>FilteredTransactionView.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>AccountInfoWidget</class>
+   <extends>QWidget</extends>
+   <header>AccountInfoWidget.h</header>
+   <container>1</container>
+   <slots>
+    <slot>selectAccount()</slot>
+   </slots>
+  </customwidget>
+  <customwidget>
+   <class>AccountTreeView</class>
+   <extends>QTreeView</extends>
+   <header>AccountTreeView.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>accountTreeView</sender>
+   <signal>clicked(QModelIndex)</signal>
+   <receiver>accountInfoWidget</receiver>
+   <slot>selectAccount()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>397</x>
+     <y>354</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>785</x>
+     <y>354</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

@@ -1,0 +1,6159 @@
+[
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "balanceSnapshots": [], 
+      "ofx_fid": "", 
+      "parent": null, 
+      "__type": "Account", 
+      "initialAmount": 0, 
+      "webCookieJar": "", 
+      "path": "", 
+      "password": "", 
+      "children": [], 
+      "accountId": "", 
+      "userName": "", 
+      "name": "All Accounts", 
+      "enabled": 1, 
+      "__id": 2, 
+      "ofx_bankid": "", 
+      "ofx_url": "", 
+      "scraperClass": "", 
+      "ofx_acctTypeIdx": 1, 
+      "ofx_fiorg": "", 
+      "type": 3
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Incomes", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Incomes", 
+    "enabled": 1, 
+    "__id": 1, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 2
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 1
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Incomes/MathWorks", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "MathWorks", 
+    "enabled": 1, 
+    "__id": 3, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 2
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 1
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Incomes/IBM", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "IBM", 
+    "enabled": 1, 
+    "__id": 4, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 2
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 1
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Incomes/Interest", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Interest", 
+    "enabled": 1, 
+    "__id": 5, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 2
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 1
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Incomes/misc", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "misc", 
+    "enabled": 1, 
+    "__id": 6, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 2
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 2
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Expenses", 
+    "enabled": 1, 
+    "__id": 7, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/mortgage", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "mortgage", 
+    "enabled": 1, 
+    "__id": 8, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/daycare", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "daycare", 
+    "enabled": 1, 
+    "__id": 9, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/utilities", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "utilities", 
+    "enabled": 1, 
+    "__id": 10, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 10
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/utilities/electricity", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "electricity", 
+    "enabled": 1, 
+    "__id": 11, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 10
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/utilities/heat", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "heat", 
+    "enabled": 1, 
+    "__id": 12, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 10
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/utilities/water", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "water", 
+    "enabled": 1, 
+    "__id": 13, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 10
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/utilities/sewage", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "sewage", 
+    "enabled": 1, 
+    "__id": 14, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 10
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/utilities/housekeeping", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "housekeeping", 
+    "enabled": 1, 
+    "__id": 15, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/services", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "services", 
+    "enabled": 1, 
+    "__id": 16, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 16
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/services/phone", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "phone", 
+    "enabled": 1, 
+    "__id": 17, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 16
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/services/cable", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "cable", 
+    "enabled": 1, 
+    "__id": 18, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/auto", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "auto", 
+    "enabled": 1, 
+    "__id": 19, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 19
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/auto/gas", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "gas", 
+    "enabled": 1, 
+    "__id": 20, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 19
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/auto/repairs", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "repairs", 
+    "enabled": 1, 
+    "__id": 21, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 19
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/auto/insurance", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "insurance", 
+    "enabled": 1, 
+    "__id": 22, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/groceries", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "groceries", 
+    "enabled": 1, 
+    "__id": 23, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 23
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/groceries/wholefoods", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "wholefoods", 
+    "enabled": 1, 
+    "__id": 24, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 23
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/groceries/shaws", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "shaws", 
+    "enabled": 1, 
+    "__id": 25, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 23
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/groceries/indian", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "indian", 
+    "enabled": 1, 
+    "__id": 26, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 23
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/groceries/others", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "others", 
+    "enabled": 1, 
+    "__id": 27, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/restaurants", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "restaurants", 
+    "enabled": 1, 
+    "__id": 28, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 28
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/restaurants/cafe", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "cafe", 
+    "enabled": 1, 
+    "__id": 29, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 28
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/restaurants/mathworks", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "mathworks", 
+    "enabled": 1, 
+    "__id": 30, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 28
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/restaurants/other", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "other", 
+    "enabled": 1, 
+    "__id": 31, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/entertainment", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "entertainment", 
+    "enabled": 1, 
+    "__id": 32, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 32
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/entertainment/books", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "books", 
+    "enabled": 1, 
+    "__id": 33, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 32
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/entertainment/electronics", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "electronics", 
+    "enabled": 1, 
+    "__id": 34, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 32
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/entertainment/movies", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "movies", 
+    "enabled": 1, 
+    "__id": 35, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 32
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/entertainment/netflix", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "netflix", 
+    "enabled": 1, 
+    "__id": 36, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 32
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/entertainment/misc", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "misc", 
+    "enabled": 1, 
+    "__id": 37, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "misc", 
+    "enabled": 1, 
+    "__id": 38, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/nannaru", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "nannaru", 
+    "enabled": 1, 
+    "__id": 39, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/gifts", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "gifts", 
+    "enabled": 1, 
+    "__id": 40, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/travel", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "travel", 
+    "enabled": 1, 
+    "__id": 41, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/cash", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "cash", 
+    "enabled": 1, 
+    "__id": 42, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/medical", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "medical", 
+    "enabled": 1, 
+    "__id": 43, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/kids", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "kids", 
+    "enabled": 1, 
+    "__id": 44, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 44
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/kids/toys", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "toys", 
+    "enabled": 1, 
+    "__id": 45, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 44
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/kids/diapers", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "diapers", 
+    "enabled": 1, 
+    "__id": 46, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 44
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/kids/wipes", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "wipes", 
+    "enabled": 1, 
+    "__id": 47, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 44
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/kids/misc", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "misc", 
+    "enabled": 1, 
+    "__id": 48, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/amazon", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "amazon", 
+    "enabled": 1, 
+    "__id": 49, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-11-05T00:00:00"
+        }, 
+        21631.0
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 2
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Assets", 
+    "enabled": 1, 
+    "__id": 50, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-09T16:00:00"
+        }, 
+        4377.31
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-09T16:00:00"
+        }, 
+        4377.31
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-14T16:00:00"
+        }, 
+        4272.11
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-14T16:00:00"
+        }, 
+        4272.11
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-20T16:00:00"
+        }, 
+        4185.32
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-23T16:00:00"
+        }, 
+        4185.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-27T16:00:00"
+        }, 
+        3999.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T16:00:00"
+        }, 
+        3964.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T16:00:00"
+        }, 
+        3964.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-04T16:00:00"
+        }, 
+        3939.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-07T16:00:00"
+        }, 
+        5939.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-20T16:00:00"
+        }, 
+        4268.98
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-20T16:00:00"
+        }, 
+        4268.98
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-02T16:00:00"
+        }, 
+        7728.98
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-02T16:00:00"
+        }, 
+        7728.98
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-23T16:00:00"
+        }, 
+        9079.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-11-08T16:00:00"
+        }, 
+        8710.67
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-03T17:00:00"
+        }, 
+        4059.52
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-07T17:00:00"
+        }, 
+        6059.52
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-13T17:00:00"
+        }, 
+        5230.33
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-21T17:00:00"
+        }, 
+        9307.87
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-09T17:00:00"
+        }, 
+        7507.5
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-24T17:00:00"
+        }, 
+        7128.52
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-04T17:00:00"
+        }, 
+        6103.52
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-01T17:00:00"
+        }, 
+        6495.47
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-22T17:00:00"
+        }, 
+        3451.68
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-22T17:00:00"
+        }, 
+        3451.68
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-01T17:00:00"
+        }, 
+        2978.47
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-10T16:00:00"
+        }, 
+        3950.5
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-20T16:00:00"
+        }, 
+        2265.39
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-20T16:00:00"
+        }, 
+        2265.39
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-01T16:00:00"
+        }, 
+        2240.39
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-12T16:00:00"
+        }, 
+        7313.16
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-25T16:00:00"
+        }, 
+        7156.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-25T16:00:00"
+        }, 
+        7156.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-12T16:00:00"
+        }, 
+        8772.35
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-30T16:00:00"
+        }, 
+        8473.69
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-20T16:00:00"
+        }, 
+        6479.62
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-24T16:00:00"
+        }, 
+        2956.26
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-01T16:00:00"
+        }, 
+        2874.26
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-22T12:00:00"
+        }, 
+        4659.59
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-11-17T12:00:00"
+        }, 
+        4029.45
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-12-31T19:00:00"
+        }, 
+        3950.51
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-13T19:00:00"
+        }, 
+        1678.3
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-08-29T19:00:00"
+        }, 
+        2624.67
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-10-31T19:00:00"
+        }, 
+        5156.82
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-01-30T19:00:00"
+        }, 
+        3932.03
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-27T19:00:00"
+        }, 
+        2198.98
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-05-08T19:00:00"
+        }, 
+        11234.09
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-08T19:00:00"
+        }, 
+        4796.63
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-01T12:00:00"
+        }, 
+        2815.99
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-13T19:00:00"
+        }, 
+        0.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-06-22T00:00:00"
+        }, 
+        3351.5
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-23T00:00:00"
+        }, 
+        4003.51
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-16T12:00:00"
+        }, 
+        3508.47
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-09-13T00:00:00"
+        }, 
+        2369.47
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        11723.68
+      ]
+    ], 
+    "ofx_fid": "5959", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets/Bank of America (checking)", 
+    "password": "bajji2009", 
+    "children": [], 
+    "accountId": "004607982718", 
+    "userName": "srinathava", 
+    "name": "Bank of America (checking)", 
+    "enabled": 1, 
+    "__id": 51, 
+    "ofx_bankid": "011000138", 
+    "ofx_url": "https://eftx.bankofamerica.com/eftxweb/access.ofx", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "HAN", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-09T16:00:00"
+        }, 
+        185066.85
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-09T16:00:00"
+        }, 
+        185066.85
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-09T16:00:00"
+        }, 
+        185066.85
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-17T16:00:00"
+        }, 
+        192377.08
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-22T16:00:00"
+        }, 
+        196550.5
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-23T16:00:00"
+        }, 
+        196556.26
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-29T16:00:00"
+        }, 
+        41855.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-29T16:00:00"
+        }, 
+        41855.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-29T16:00:00"
+        }, 
+        41855.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-04T16:00:00"
+        }, 
+        41880.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-07T16:00:00"
+        }, 
+        44048.82
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-21T16:00:00"
+        }, 
+        48218.42
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-21T16:00:00"
+        }, 
+        48218.42
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-01T16:00:00"
+        }, 
+        38243.42
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-05T16:00:00"
+        }, 
+        42411.94
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-23T16:00:00"
+        }, 
+        44581.24
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-11-08T16:00:00"
+        }, 
+        46774.76
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-03T17:00:00"
+        }, 
+        61407.61
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-03T17:00:00"
+        }, 
+        61407.61
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-03T17:00:00"
+        }, 
+        61407.61
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-03T17:00:00"
+        }, 
+        61407.61
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-07T17:00:00"
+        }, 
+        63576.13
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-07T17:00:00"
+        }, 
+        63576.13
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-21T17:00:00"
+        }, 
+        62745.64
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-09T17:00:00"
+        }, 
+        59884.22
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-23T17:00:00"
+        }, 
+        63008.8
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-01T17:00:00"
+        }, 
+        63033.8
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-01T17:00:00"
+        }, 
+        79363.48
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-22T17:00:00"
+        }, 
+        79566.83
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-22T17:00:00"
+        }, 
+        79566.83
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-03T17:00:00"
+        }, 
+        73345.74
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-17T16:00:00"
+        }, 
+        70278.83
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-14T16:00:00"
+        }, 
+        73927.56
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-20T16:00:00"
+        }, 
+        73928.73
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-28T16:00:00"
+        }, 
+        76881.72
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-01T16:00:00"
+        }, 
+        76906.72
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-12T16:00:00"
+        }, 
+        72859.72
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-26T16:00:00"
+        }, 
+        76213.28
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-26T16:00:00"
+        }, 
+        76213.28
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-09T16:00:00"
+        }, 
+        78092.27
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-30T16:00:00"
+        }, 
+        85483.63
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-20T16:00:00"
+        }, 
+        91191.41
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-20T16:00:00"
+        }, 
+        91191.41
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-01T16:00:00"
+        }, 
+        91216.41
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-22T12:00:00"
+        }, 
+        96921.23
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-11-17T12:00:00"
+        }, 
+        102652.73
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-12-31T19:00:00"
+        }, 
+        110449.62
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-14T19:00:00"
+        }, 
+        139439.09
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-05T19:00:00"
+        }, 
+        164331.52
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-10-31T19:00:00"
+        }, 
+        168633.35
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-01-30T19:00:00"
+        }, 
+        181311.73
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-27T19:00:00"
+        }, 
+        208206.74
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-05-08T19:00:00"
+        }, 
+        203653.19
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-01T19:00:00"
+        }, 
+        178294.08
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-13T19:00:00"
+        }, 
+        245166.78
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-06-22T00:00:00"
+        }, 
+        226155.12
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-23T00:00:00"
+        }, 
+        223116.75
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-16T12:00:00"
+        }, 
+        170211.78
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-09-13T00:00:00"
+        }, 
+        146800.57
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        226866.0
+      ]
+    ], 
+    "ofx_fid": "5959", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets/Bank of America (savings)", 
+    "password": "bajji2009", 
+    "children": [], 
+    "accountId": "004607984978", 
+    "userName": "srinathava", 
+    "name": "Bank of America (savings)", 
+    "enabled": 1, 
+    "__id": 52, 
+    "ofx_bankid": "011000138", 
+    "ofx_url": "https://eftx.bankofamerica.com/eftxweb/access.ofx", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 3, 
+    "ofx_fiorg": "HAN", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-11T05:00:00"
+        }, 
+        22879.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-14T05:00:00"
+        }, 
+        25839.19
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-15T05:00:00"
+        }, 
+        25831.94
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-17T05:00:00"
+        }, 
+        25816.01
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-23T05:00:00"
+        }, 
+        24732.83
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-25T05:00:00"
+        }, 
+        24101.57
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-30T05:00:00"
+        }, 
+        24078.08
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-01T05:00:00"
+        }, 
+        24000.61
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-06T05:00:00"
+        }, 
+        19466.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-08T05:00:00"
+        }, 
+        19417.38
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-08T05:00:00"
+        }, 
+        19417.38
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-22T05:00:00"
+        }, 
+        21687.37
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-28T05:00:00"
+        }, 
+        24695.39
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-04T05:00:00"
+        }, 
+        21408.75
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-05T05:00:00"
+        }, 
+        21405.03
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-26T05:00:00"
+        }, 
+        14722.7
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-11-09T05:00:00"
+        }, 
+        13709.23
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-05T05:00:00"
+        }, 
+        16506.64
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-06T05:00:00"
+        }, 
+        16421.64
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-10T05:00:00"
+        }, 
+        16241.39
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-12T05:00:00"
+        }, 
+        19281.39
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-21T05:00:00"
+        }, 
+        19189.86
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-21T05:00:00"
+        }, 
+        19189.86
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-21T05:00:00"
+        }, 
+        19189.86
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-11T05:00:00"
+        }, 
+        10131.16
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-01T05:00:00"
+        }, 
+        11032.98
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-07T05:00:00"
+        }, 
+        10640.71
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-28T05:00:00"
+        }, 
+        12564.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-20T05:00:00"
+        }, 
+        16070.21
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-28T05:00:00"
+        }, 
+        7531.09
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-04T05:00:00"
+        }, 
+        11299.84
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-20T05:00:00"
+        }, 
+        8274.49
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-14T05:00:00"
+        }, 
+        9775.71
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-29T05:00:00"
+        }, 
+        10637.8
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-02T05:00:00"
+        }, 
+        10543.8
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-17T05:00:00"
+        }, 
+        5700.14
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-29T05:00:00"
+        }, 
+        7082.89
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-29T05:00:00"
+        }, 
+        7949.7
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-16T05:00:00"
+        }, 
+        6101.57
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-27T05:00:00"
+        }, 
+        6377.45
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-16T05:00:00"
+        }, 
+        5867.6
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-11-13T05:00:00"
+        }, 
+        4243.84
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-12-27T05:00:00"
+        }, 
+        6475.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-12-27T05:00:00"
+        }, 
+        6475.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-12T05:00:00"
+        }, 
+        5268.45
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-12T05:00:00"
+        }, 
+        5268.45
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-03T05:00:00"
+        }, 
+        4011.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-03T05:00:00"
+        }, 
+        4011.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-11-05T05:00:00"
+        }, 
+        2167.48
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-04T05:00:00"
+        }, 
+        2936.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-03-02T05:00:00"
+        }, 
+        3779.57
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-05-01T05:00:00"
+        }, 
+        2297.88
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-07T05:00:00"
+        }, 
+        5073.51
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-16T05:00:00"
+        }, 
+        10453.61
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-11T05:00:00"
+        }, 
+        14773.18
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-13T05:00:00"
+        }, 
+        29583.64
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-11T05:00:00"
+        }, 
+        10292.94
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-02T05:00:00"
+        }, 
+        16444.15
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-07T05:00:00"
+        }, 
+        15012.48
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-11-01T05:00:00"
+        }, 
+        20771.76
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-15T05:00:00"
+        }, 
+        38063.46
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-06-03T05:00:00"
+        }, 
+        23400.22
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-10-10T05:00:00"
+        }, 
+        35286.21
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        46560.57
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 10618.150000000021, 
+    "webCookieJar": {
+      "__type": "QByteArray", 
+      "__id": 54
+    }, 
+    "path": "/Assets/DCU (checking)", 
+    "password": "bajji2009", 
+    "children": [], 
+    "accountId": "5258737S5", 
+    "userName": "5258737", 
+    "name": "DCU (checking)", 
+    "enabled": 1, 
+    "__id": 53, 
+    "ofx_bankid": "211391825", 
+    "ofx_url": "", 
+    "scraperClass": "DcuScraper", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-07-31T05:00:00"
+        }, 
+        118663.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-07-31T05:00:00"
+        }, 
+        118663.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-07-31T05:00:00"
+        }, 
+        118663.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-07-31T05:00:00"
+        }, 
+        118663.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-07-31T05:00:00"
+        }, 
+        118663.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-07-31T05:00:00"
+        }, 
+        118663.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-29T05:00:00"
+        }, 
+        18663.81
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T05:00:00"
+        }, 
+        18668.44
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T05:00:00"
+        }, 
+        18668.44
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T05:00:00"
+        }, 
+        18668.44
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T05:00:00"
+        }, 
+        18668.44
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T05:00:00"
+        }, 
+        18668.44
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-30T05:00:00"
+        }, 
+        18669.21
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-30T05:00:00"
+        }, 
+        18669.21
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-30T05:00:00"
+        }, 
+        18669.21
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-15T05:00:00"
+        }, 
+        26669.21
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-31T05:00:00"
+        }, 
+        26670.19
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-11-30T05:00:00"
+        }, 
+        26671.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-06T05:00:00"
+        }, 
+        31671.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-06T05:00:00"
+        }, 
+        31671.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-06T05:00:00"
+        }, 
+        31671.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-06T05:00:00"
+        }, 
+        31671.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-06T05:00:00"
+        }, 
+        31671.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-06T05:00:00"
+        }, 
+        31671.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-07T05:00:00"
+        }, 
+        43672.6
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-31T05:00:00"
+        }, 
+        43674.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-31T05:00:00"
+        }, 
+        43674.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-28T05:00:00"
+        }, 
+        43679.54
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-28T05:00:00"
+        }, 
+        43679.54
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-28T05:00:00"
+        }, 
+        53679.54
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-04-30T05:00:00"
+        }, 
+        53683.66
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-16T05:00:00"
+        }, 
+        58683.66
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-31T05:00:00"
+        }, 
+        58686.05
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-31T05:00:00"
+        }, 
+        58686.05
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-30T05:00:00"
+        }, 
+        58688.46
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-30T05:00:00"
+        }, 
+        58688.46
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-30T05:00:00"
+        }, 
+        58688.46
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-31T05:00:00"
+        }, 
+        52695.4
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-31T05:00:00"
+        }, 
+        52695.4
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-31T05:00:00"
+        }, 
+        52695.4
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-25T05:00:00"
+        }, 
+        50695.4
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-30T05:00:00"
+        }, 
+        50697.55
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-31T05:00:00"
+        }, 
+        50699.7
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-12-31T05:00:00"
+        }, 
+        58767.53
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-12-31T05:00:00"
+        }, 
+        58767.53
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-06T05:00:00"
+        }, 
+        54228.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-06T05:00:00"
+        }, 
+        54228.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-08-31T05:00:00"
+        }, 
+        49765.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-10-31T05:00:00"
+        }, 
+        49778.74
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-01-31T05:00:00"
+        }, 
+        48291.08
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-28T05:00:00"
+        }, 
+        48294.06
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-04-30T05:00:00"
+        }, 
+        48302.06
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-03T05:00:00"
+        }, 
+        37106.06
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-12-31T05:00:00"
+        }, 
+        38624.11
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-08-31T05:00:00"
+        }, 
+        35000.53
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-04-30T05:00:00"
+        }, 
+        35056.56
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-06-30T05:00:00"
+        }, 
+        35079.15
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-10-31T05:00:00"
+        }, 
+        30124.28
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-02-28T05:00:00"
+        }, 
+        30170.96
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-05-31T05:00:00"
+        }, 
+        30207.48
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-09-30T05:00:00"
+        }, 
+        30254.7
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        100842.83
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 95517.57999999999, 
+    "webCookieJar": "", 
+    "path": "/Assets/DCU (savings)", 
+    "password": "", 
+    "children": [], 
+    "accountId": "5258737S1", 
+    "userName": "", 
+    "name": "DCU (savings)", 
+    "enabled": 1, 
+    "__id": 55, 
+    "ofx_bankid": "211391825", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 2, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 2
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Liabilities", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Liabilities", 
+    "enabled": 1, 
+    "__id": 56, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 1
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-15T01:15:10"
+        }, 
+        -699.22
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-16T02:28:16"
+        }, 
+        -792.07
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-19T01:30:59"
+        }, 
+        -792.07
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-24T02:27:58"
+        }, 
+        -1168.65
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-26T01:29:41"
+        }, 
+        -1168.65
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-31T00:14:17"
+        }, 
+        -1434.79
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-01T14:01:01"
+        }, 
+        -2540.51
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-03T02:02:41"
+        }, 
+        -2761.34
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-08T03:01:35"
+        }, 
+        -3337.49
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-09T01:30:41"
+        }, 
+        -3337.49
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-22T18:11:48"
+        }, 
+        -5534.91
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-01T00:08:20"
+        }, 
+        -6356.48
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-05T03:29:09"
+        }, 
+        -2100.95
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-07T19:13:19"
+        }, 
+        -2133.28
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-27T01:30:54"
+        }, 
+        -4048.75
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-07T02:00:22"
+        }, 
+        -2992.11
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-11T03:07:57"
+        }, 
+        -4179.39
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-15T01:54:15"
+        }, 
+        -3828.16
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-23T02:03:28"
+        }, 
+        -304.09
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-01-12T15:16:04"
+        }, 
+        -3292.11
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-02T02:45:14"
+        }, 
+        -5104.51
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-03T22:21:52"
+        }, 
+        -2612.27
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-23T20:54:51"
+        }, 
+        -1004.02
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-31T16:19:37"
+        }, 
+        -1734.23
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-07T21:41:22"
+        }, 
+        -1107.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-21T00:57:59"
+        }, 
+        -1452.06
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-16T19:12:06"
+        }, 
+        -415.34
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-29T19:48:26"
+        }, 
+        -955.95
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-07T23:27:25"
+        }, 
+        -1212.59
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-18T00:19:24"
+        }, 
+        -256.48
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-30T20:07:08"
+        }, 
+        -577.65
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-13T15:50:39"
+        }, 
+        -1128.42
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-02T01:12:40"
+        }, 
+        -1835.27
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-21T17:57:04"
+        }, 
+        -1661.7
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-23T00:05:37"
+        }, 
+        -2068.05
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-11-18T04:43:53"
+        }, 
+        -1400.15
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-01-03T21:52:32"
+        }, 
+        -2870.53
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-17T12:00:00"
+        }, 
+        -1219.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-08T04:08:41"
+        }, 
+        -1977.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-11-06T02:11:33"
+        }, 
+        -3412.13
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-06T23:33:05"
+        }, 
+        -4779.85
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-03-03T01:11:14"
+        }, 
+        -3422.68
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-05-10T13:30:01"
+        }, 
+        -1900.96
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-10T01:24:21"
+        }, 
+        -3505.01
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-04-15T00:00:00"
+        }, 
+        -1177.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-14T00:00:00"
+        }, 
+        -1377.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-15T00:00:00"
+        }, 
+        -1377.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-06-14T00:00:00"
+        }, 
+        -2278.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-06-15T00:00:00"
+        }, 
+        -2278.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-07-14T00:00:00"
+        }, 
+        -1998.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-07-15T00:00:00"
+        }, 
+        -1998.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-08-14T00:00:00"
+        }, 
+        -1741.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-08-15T00:00:00"
+        }, 
+        -1741.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-09-14T00:00:00"
+        }, 
+        -2439.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-09-15T00:00:00"
+        }, 
+        -2439.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-10-14T00:00:00"
+        }, 
+        -1601.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-10-15T00:00:00"
+        }, 
+        -1601.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-11-14T00:00:00"
+        }, 
+        -1512.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-11-15T00:00:00"
+        }, 
+        -1512.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-11-15T00:00:00"
+        }, 
+        -1512.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-12-14T00:00:00"
+        }, 
+        -1364.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-12-14T00:00:00"
+        }, 
+        -1364.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-12-15T00:00:00"
+        }, 
+        -1364.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-14T00:00:00"
+        }, 
+        -507.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-15T00:00:00"
+        }, 
+        -507.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-02-14T00:00:00"
+        }, 
+        -1205.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-02-15T00:00:00"
+        }, 
+        -1205.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-03-14T00:00:00"
+        }, 
+        -815.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-03-15T00:00:00"
+        }, 
+        -815.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-04-14T00:00:00"
+        }, 
+        -1299.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-04-15T00:00:00"
+        }, 
+        -1299.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-05-14T00:00:00"
+        }, 
+        -986.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-05-15T00:00:00"
+        }, 
+        -986.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-06-14T00:00:00"
+        }, 
+        -1127.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-06-15T00:00:00"
+        }, 
+        -1127.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-07-14T00:00:00"
+        }, 
+        -1612.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-07-15T00:00:00"
+        }, 
+        -1612.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-08-14T00:00:00"
+        }, 
+        -1695.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-08-15T00:00:00"
+        }, 
+        -1695.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-08-15T00:00:00"
+        }, 
+        -1695.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-14T00:00:00"
+        }, 
+        -4616.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-14T00:00:00"
+        }, 
+        -4616.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-15T00:00:00"
+        }, 
+        -4616.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-10-14T00:00:00"
+        }, 
+        -1336.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-10-15T00:00:00"
+        }, 
+        -1336.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-11-14T00:00:00"
+        }, 
+        -1586.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-11-15T00:00:00"
+        }, 
+        -1586.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-14T00:00:00"
+        }, 
+        -850.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-15T00:00:00"
+        }, 
+        -850.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-01-14T00:00:00"
+        }, 
+        -1349.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-01-15T00:00:00"
+        }, 
+        -1349.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-02-14T00:00:00"
+        }, 
+        -1147.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-02-15T00:00:00"
+        }, 
+        -1147.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-03-14T00:00:00"
+        }, 
+        -1081.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-03-15T00:00:00"
+        }, 
+        -1081.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-04-14T00:00:00"
+        }, 
+        -1555.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-04-15T00:00:00"
+        }, 
+        -1555.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-14T00:00:00"
+        }, 
+        -1707.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-15T00:00:00"
+        }, 
+        -1707.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-06-14T00:00:00"
+        }, 
+        -1639.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-06-15T00:00:00"
+        }, 
+        -1639.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-06-15T00:00:00"
+        }, 
+        -1639.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-14T00:00:00"
+        }, 
+        -1546.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-14T00:00:00"
+        }, 
+        -1546.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-15T00:00:00"
+        }, 
+        -1546.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-15T00:00:00"
+        }, 
+        -1546.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-15T00:00:00"
+        }, 
+        -1546.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-14T00:00:00"
+        }, 
+        -1731.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-15T00:00:00"
+        }, 
+        -1731.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-09-14T00:00:00"
+        }, 
+        -2145.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-09-15T00:00:00"
+        }, 
+        -2145.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-10-14T00:00:00"
+        }, 
+        -1965.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-10-15T00:00:00"
+        }, 
+        -1965.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-11-14T00:00:00"
+        }, 
+        -718.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-11-15T00:00:00"
+        }, 
+        -718.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-12-14T00:00:00"
+        }, 
+        -1105.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-12-15T00:00:00"
+        }, 
+        -1105.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-01-14T00:00:00"
+        }, 
+        -1533.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-01-15T00:00:00"
+        }, 
+        -1533.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-02-14T00:00:00"
+        }, 
+        -1093.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-02-15T00:00:00"
+        }, 
+        -1093.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-14T00:00:00"
+        }, 
+        -929.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-15T00:00:00"
+        }, 
+        -929.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-04-14T00:00:00"
+        }, 
+        -617.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-04-15T00:00:00"
+        }, 
+        -617.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-05-14T00:00:00"
+        }, 
+        -971.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-05-15T00:00:00"
+        }, 
+        -971.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-06-14T00:00:00"
+        }, 
+        -1150.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-06-15T00:00:00"
+        }, 
+        -1150.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-07-14T00:00:00"
+        }, 
+        -1245.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-07-15T00:00:00"
+        }, 
+        -1245.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-08-14T00:00:00"
+        }, 
+        -1807.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-08-15T00:00:00"
+        }, 
+        -1807.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-09-14T00:00:00"
+        }, 
+        -722.0
+      ]
+    ], 
+    "ofx_fid": "10898", 
+    "parent": {
+      "__id": 56
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Liabilities/VISA", 
+    "password": "bajji2011", 
+    "children": [], 
+    "accountId": "4266812112961965", 
+    "userName": "srinathava", 
+    "name": "VISA", 
+    "enabled": 1, 
+    "__id": 57, 
+    "ofx_bankid": "XXXXXXX", 
+    "ofx_url": "https://ofx.chase.com", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 0, 
+    "ofx_fiorg": "B1", 
+    "type": 1
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "stores", 
+    "enabled": 1, 
+    "__id": 58, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 58
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores/target", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "target", 
+    "enabled": 1, 
+    "__id": 59, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 58
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores/sears", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "sears", 
+    "enabled": 1, 
+    "__id": 60, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 58
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores/clothing", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "clothing", 
+    "enabled": 1, 
+    "__id": 61, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 58
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores/home & furniture", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "home & furniture", 
+    "enabled": 1, 
+    "__id": 62, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 58
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores/barber", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "barber", 
+    "enabled": 1, 
+    "__id": 63, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/taxes", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "taxes", 
+    "enabled": 1, 
+    "__id": 64, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 58
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores/electronics", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "electronics", 
+    "enabled": 1, 
+    "__id": 65, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/old wellsfargo cc", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "old wellsfargo cc", 
+    "enabled": 1, 
+    "__id": 66, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/to reimburse", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "to reimburse", 
+    "enabled": 1, 
+    "__id": 67, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/charity", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "charity", 
+    "enabled": 1, 
+    "__id": 68, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/home", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "home", 
+    "enabled": 1, 
+    "__id": 69, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-30T00:00:00"
+        }, 
+        -417000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-30T00:00:00"
+        }, 
+        -416357.96
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-13T00:00:00"
+        }, 
+        -415068.05
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-23T00:00:00"
+        }, 
+        -413118.54
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-30T00:00:00"
+        }, 
+        -410491.59
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-01T00:00:00"
+        }, 
+        -409166.18
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-18T00:00:00"
+        }, 
+        -404814.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-06T00:00:00"
+        }, 
+        -390000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-17T00:00:00"
+        }, 
+        -380281.79
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-12T00:00:00"
+        }, 
+        -372000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-22T00:00:00"
+        }, 
+        -340411.66
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-28T00:00:00"
+        }, 
+        -337783.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-12T00:00:00"
+        }, 
+        -318259.35
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-05T00:00:00"
+        }, 
+        -306315.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-12T00:00:00"
+        }, 
+        -295308.75
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-11-04T00:00:00"
+        }, 
+        -272179.92
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-01-24T00:00:00"
+        }, 
+        -270017.62
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-16T00:00:00"
+        }, 
+        -257781.73
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-06-10T00:00:00"
+        }, 
+        -224266.43
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-06-03T00:00:00"
+        }, 
+        -100910.41
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-09-13T00:00:00"
+        }, 
+        -71044.72
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        -45799.96
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 56
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Liabilities/Mortgage", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Mortgage", 
+    "enabled": 1, 
+    "__id": 70, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 1
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-30T00:00:00"
+        }, 
+        676000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-08T00:00:00"
+        }, 
+        676000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-30T00:00:00"
+        }, 
+        673000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-05T00:00:00"
+        }, 
+        676000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-30T00:00:00"
+        }, 
+        706954.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-01T00:00:00"
+        }, 
+        718000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-18T00:00:00"
+        }, 
+        722000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-08T00:00:00"
+        }, 
+        789000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-06T00:00:00"
+        }, 
+        720000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-15T00:00:00"
+        }, 
+        800000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-12T00:00:00"
+        }, 
+        802000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-12T00:00:00"
+        }, 
+        882343.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-05T00:00:00"
+        }, 
+        900000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-12T00:00:00"
+        }, 
+        887379.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-06-03T00:00:00"
+        }, 
+        972000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-09-13T00:00:00"
+        }, 
+        1054100.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        1129300.0
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets/House", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "House", 
+    "enabled": 1, 
+    "__id": 71, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 10
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/utilities/waste", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "waste", 
+    "enabled": 1, 
+    "__id": 72, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-03-01T00:00:00"
+        }, 
+        147514.64
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-04-01T00:00:00"
+        }, 
+        150536.8
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-05-01T00:00:00"
+        }, 
+        151997.35
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-06-01T00:00:00"
+        }, 
+        147528.62
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-07-01T00:00:00"
+        }, 
+        152866.53
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-08-01T00:00:00"
+        }, 
+        154127.8
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-09T00:00:00"
+        }, 
+        159583.14
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-22T00:00:00"
+        }, 
+        162229.08
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-09-30T00:00:00"
+        }, 
+        160795.86
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-04T00:00:00"
+        }, 
+        161236.85
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-10-26T00:00:00"
+        }, 
+        159197.27
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-11-09T00:00:00"
+        }, 
+        158260.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-05T00:00:00"
+        }, 
+        160961.23
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2012-12-14T00:00:00"
+        }, 
+        156496.21
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-02-07T00:00:00"
+        }, 
+        179598.11
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-03T00:00:00"
+        }, 
+        188190.79
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-03-23T00:00:00"
+        }, 
+        191596.27
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-16T00:00:00"
+        }, 
+        207481.3
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-07-30T00:00:00"
+        }, 
+        214511.12
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-01T00:00:00"
+        }, 
+        208858.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-21T00:00:00"
+        }, 
+        217762.73
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-18T00:00:00"
+        }, 
+        250000.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-11-05T00:00:00"
+        }, 
+        279499.56
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-09T00:00:00"
+        }, 
+        317535.72
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-16T00:00:00"
+        }, 
+        364656.77
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-12T00:00:00"
+        }, 
+        396809.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-22T00:00:00"
+        }, 
+        468915.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-27T00:00:00"
+        }, 
+        497345.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-12T00:00:00"
+        }, 
+        538301.67
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-05T00:00:00"
+        }, 
+        542726.63
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-12T00:00:00"
+        }, 
+        556537.85
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-11-04T00:00:00"
+        }, 
+        545923.89
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-16T00:00:00"
+        }, 
+        610912.84
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-10-14T00:00:00"
+        }, 
+        651368.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-06-03T00:00:00"
+        }, 
+        972397.77
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-09-13T00:00:00"
+        }, 
+        999754.6
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        1011900.69
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": {
+      "__type": "QByteArray", 
+      "__id": 74
+    }, 
+    "path": "/Assets/Srinath 401-K", 
+    "password": "bakkhi78", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "604159288", 
+    "name": "Srinath 401-K", 
+    "enabled": 1, 
+    "__id": 73, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "SchwabScraper", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-08T00:00:00"
+        }, 
+        142563.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-11-05T00:00:00"
+        }, 
+        143024.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-09T00:00:00"
+        }, 
+        156503.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-17T00:00:00"
+        }, 
+        177834.47
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-12T00:00:00"
+        }, 
+        198306.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-12T00:00:00"
+        }, 
+        246135.7
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-05T00:00:00"
+        }, 
+        248849.97
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-16T00:00:00"
+        }, 
+        276370.26
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-10-14T00:00:00"
+        }, 
+        305199.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        434045.9
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets/Vidya 401-K", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Vidya 401-K", 
+    "enabled": 1, 
+    "__id": 75, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 69
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/home/lawncare", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "lawncare", 
+    "enabled": 1, 
+    "__id": 76, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 58
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/stores/home depot", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "home depot", 
+    "enabled": 1, 
+    "__id": 77, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 69
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/home/plumbing", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "plumbing", 
+    "enabled": 1, 
+    "__id": 78, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 69
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/home/maintenance", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "maintenance", 
+    "enabled": 1, 
+    "__id": 79, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 7
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/onetimeexo", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "onetimeexo", 
+    "enabled": 1, 
+    "__id": 80, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/hobbies", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "hobbies", 
+    "enabled": 1, 
+    "__id": 81, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 38
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/misc/religious", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "religious", 
+    "enabled": 1, 
+    "__id": 82, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-07T21:49:37"
+        }, 
+        -1895.29
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-05-21T00:58:05"
+        }, 
+        -1065.61
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-06-29T19:48:31"
+        }, 
+        -1540.36
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-08-13T15:50:44"
+        }, 
+        -3651.77
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-02T01:12:26"
+        }, 
+        -1454.42
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-09-21T17:57:11"
+        }, 
+        -1981.13
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-10-23T00:05:44"
+        }, 
+        -1935.37
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2013-11-18T04:44:08"
+        }, 
+        -4631.35
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-01-03T21:52:44"
+        }, 
+        -4488.07
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-02-17T12:00:00"
+        }, 
+        -1576.04
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-08T04:08:21"
+        }, 
+        -2613.91
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-09-08T12:00:00"
+        }, 
+        -2613.91
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-11-06T02:11:46"
+        }, 
+        -4895.25
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-02-06T23:33:18"
+        }, 
+        -6231.69
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-03-03T01:11:20"
+        }, 
+        -2757.43
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-05-10T13:30:10"
+        }, 
+        -5413.35
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-07-16T00:00:00"
+        }, 
+        -395.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-08-15T00:00:00"
+        }, 
+        -3363.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-08-16T00:00:00"
+        }, 
+        -3363.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-09-15T00:00:00"
+        }, 
+        -5856.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-09-16T00:00:00"
+        }, 
+        -5856.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-10-15T00:00:00"
+        }, 
+        -3232.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-10-16T00:00:00"
+        }, 
+        -3232.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-11-15T00:00:00"
+        }, 
+        -2064.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-11-16T00:00:00"
+        }, 
+        -2064.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-12-15T00:00:00"
+        }, 
+        -3259.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2015-12-16T00:00:00"
+        }, 
+        -3259.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-01-15T00:00:00"
+        }, 
+        -1560.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-01-15T00:00:00"
+        }, 
+        -1560.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-01-16T00:00:00"
+        }, 
+        -1560.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-02-15T00:00:00"
+        }, 
+        -2345.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-02-16T00:00:00"
+        }, 
+        -2345.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-03-15T00:00:00"
+        }, 
+        -1404.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-03-16T00:00:00"
+        }, 
+        -1404.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-04-15T00:00:00"
+        }, 
+        -5368.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-04-16T00:00:00"
+        }, 
+        -5368.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-15T00:00:00"
+        }, 
+        -2258.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-05-16T00:00:00"
+        }, 
+        -2258.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-06-15T00:00:00"
+        }, 
+        -2246.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-06-16T00:00:00"
+        }, 
+        -2246.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-07-15T00:00:00"
+        }, 
+        -1246.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-07-16T00:00:00"
+        }, 
+        -1246.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-08-15T00:00:00"
+        }, 
+        -5311.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-08-16T00:00:00"
+        }, 
+        -5311.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-09-15T00:00:00"
+        }, 
+        -2349.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-09-16T00:00:00"
+        }, 
+        -2349.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-10-15T00:00:00"
+        }, 
+        -2327.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-10-16T00:00:00"
+        }, 
+        -2327.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-11-15T00:00:00"
+        }, 
+        -2816.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-11-16T00:00:00"
+        }, 
+        -2816.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-12-15T00:00:00"
+        }, 
+        -4111.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-12-16T00:00:00"
+        }, 
+        -4111.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2016-12-16T00:00:00"
+        }, 
+        -4111.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-15T00:00:00"
+        }, 
+        -6017.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-15T00:00:00"
+        }, 
+        -6017.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-16T00:00:00"
+        }, 
+        -6017.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-01-16T00:00:00"
+        }, 
+        -6017.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-02-15T00:00:00"
+        }, 
+        -2238.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-02-15T00:00:00"
+        }, 
+        -2238.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-02-16T00:00:00"
+        }, 
+        -2238.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-03-15T00:00:00"
+        }, 
+        -2616.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-03-16T00:00:00"
+        }, 
+        -2616.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-04-15T00:00:00"
+        }, 
+        -2257.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-04-16T00:00:00"
+        }, 
+        -2257.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-05-15T00:00:00"
+        }, 
+        -6965.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-05-16T00:00:00"
+        }, 
+        -6965.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-06-15T00:00:00"
+        }, 
+        -3928.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-06-16T00:00:00"
+        }, 
+        -3928.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-07-15T00:00:00"
+        }, 
+        -5339.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-07-16T00:00:00"
+        }, 
+        -5339.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-08-15T00:00:00"
+        }, 
+        -3276.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-08-16T00:00:00"
+        }, 
+        -3276.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-08-16T00:00:00"
+        }, 
+        -3276.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-15T00:00:00"
+        }, 
+        -4664.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-15T00:00:00"
+        }, 
+        -4664.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-09-16T00:00:00"
+        }, 
+        -4664.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-10-15T00:00:00"
+        }, 
+        -2945.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-10-16T00:00:00"
+        }, 
+        -2945.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-11-15T00:00:00"
+        }, 
+        -1955.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-11-16T00:00:00"
+        }, 
+        -1955.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-15T00:00:00"
+        }, 
+        -4269.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-16T00:00:00"
+        }, 
+        -4269.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-01-15T00:00:00"
+        }, 
+        -2813.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-01-16T00:00:00"
+        }, 
+        -2813.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-02-15T00:00:00"
+        }, 
+        -3927.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-02-16T00:00:00"
+        }, 
+        -3927.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-03-15T00:00:00"
+        }, 
+        -1482.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-03-16T00:00:00"
+        }, 
+        -1482.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-04-15T00:00:00"
+        }, 
+        -2613.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-04-16T00:00:00"
+        }, 
+        -2613.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-15T00:00:00"
+        }, 
+        -5601.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-16T00:00:00"
+        }, 
+        -5601.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-06-15T00:00:00"
+        }, 
+        -3681.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-16T00:00:00"
+        }, 
+        -1508.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-04-15T00:00:00"
+        }, 
+        -6759.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-04-16T00:00:00"
+        }, 
+        -6759.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-05-15T00:00:00"
+        }, 
+        -6348.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-05-16T00:00:00"
+        }, 
+        -6348.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-06-15T00:00:00"
+        }, 
+        -4014.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-06-16T00:00:00"
+        }, 
+        -4014.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-07-15T00:00:00"
+        }, 
+        -5697.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-07-16T00:00:00"
+        }, 
+        -5697.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-08-15T00:00:00"
+        }, 
+        -4413.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-08-16T00:00:00"
+        }, 
+        -4413.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-09-15T00:00:00"
+        }, 
+        -7336.0
+      ]
+    ], 
+    "ofx_fid": "10898", 
+    "parent": {
+      "__id": 56
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Liabilities/Amazon VISA", 
+    "password": "bajji2011", 
+    "children": [], 
+    "accountId": "4147400195363237", 
+    "userName": "srinathava", 
+    "name": "Amazon VISA", 
+    "enabled": 1, 
+    "__id": 83, 
+    "ofx_bankid": "XXXXXXX", 
+    "ofx_url": "https://ofx.chase.com", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 0, 
+    "ofx_fiorg": "B1", 
+    "type": 1
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2014-11-05T00:00:00"
+        }, 
+        21631.0
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets/BOFA CDs", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "BOFA CDs", 
+    "enabled": 1, 
+    "__id": 84, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-27T00:00:00"
+        }, 
+        68474.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-12T00:00:00"
+        }, 
+        79546.41
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-05T00:00:00"
+        }, 
+        77723.52
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-12T00:00:00"
+        }, 
+        89082.17
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-01-24T00:00:00"
+        }, 
+        118656.58
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-03-16T00:00:00"
+        }, 
+        126100.2
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-06-11T00:00:00"
+        }, 
+        132596.25
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-06-03T00:00:00"
+        }, 
+        181571.77
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2021-09-13T00:00:00"
+        }, 
+        184915.94
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        169672.04
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets/Betterment", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Betterment", 
+    "enabled": 1, 
+    "__id": 85, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [
+      [
+        {
+          "__type": "datetime", 
+          "time": "2017-12-27T00:00:00"
+        }, 
+        10434.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-05-12T00:00:00"
+        }, 
+        15502.42
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-07-05T00:00:00"
+        }, 
+        15771.0
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2018-08-12T00:00:00"
+        }, 
+        15944.11
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2019-01-24T00:00:00"
+        }, 
+        14485.45
+      ], 
+      [
+        {
+          "__type": "datetime", 
+          "time": "2022-03-13T00:00:00"
+        }, 
+        20673.47
+      ]
+    ], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 50
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Assets/Schwab", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "Schwab", 
+    "enabled": 1, 
+    "__id": 86, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 0
+  }, 
+  {
+    "balanceSnapshots": [], 
+    "ofx_fid": "", 
+    "parent": {
+      "__id": 44
+    }, 
+    "__type": "Account", 
+    "initialAmount": 0, 
+    "webCookieJar": "", 
+    "path": "/Expenses/kids/classes", 
+    "password": "", 
+    "children": [], 
+    "accountId": "", 
+    "userName": "", 
+    "name": "classes", 
+    "enabled": 1, 
+    "__id": 87, 
+    "ofx_bankid": "", 
+    "ofx_url": "", 
+    "scraperClass": "", 
+    "ofx_acctTypeIdx": 1, 
+    "ofx_fiorg": "", 
+    "type": 3
+  }
+]
